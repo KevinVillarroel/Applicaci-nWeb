@@ -1,0 +1,96 @@
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\appsettings.json
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\apiServicio.exe
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\apiServicio.deps.json
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\apiServicio.runtimeconfig.json
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\apiServicio.runtimeconfig.dev.json
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\apiServicio.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\ref\apiServicio.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\apiServicio.pdb
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.csproj.AssemblyReference.cache
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.AssemblyInfoInputs.cache
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.AssemblyInfo.cs
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\obj\Debug\net5.0\staticwebassets\apiServicio.StaticWebAssets.Manifest.cache
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\obj\Debug\net5.0\staticwebassets\apiServicio.StaticWebAssets.xml
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\obj\Debug\net5.0\scopedcss\bundle\apiServicio.styles.css
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.RazorTargetAssemblyInfo.cache
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.csproj.CopyComplete
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\obj\Debug\net5.0\ref\apiServicio.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.pdb
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.genruntimeconfig.cache
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kevin Villarroel\source\repos\apiServicio\apiServicio\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\appsettings.Development.json
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\appsettings.json
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\apiServicio.exe
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\apiServicio.deps.json
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\apiServicio.runtimeconfig.json
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\apiServicio.runtimeconfig.dev.json
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\apiServicio.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\ref\apiServicio.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\apiServicio.pdb
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\Humanizer.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ApiServicio\apiServicio\apiServicio\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ApiServicio\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.csproj.AssemblyReference.cache
+C:\ApiServicio\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ApiServicio\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.AssemblyInfoInputs.cache
+C:\ApiServicio\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.AssemblyInfo.cs
+C:\ApiServicio\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.csproj.CoreCompileInputs.cache
+C:\ApiServicio\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.MvcApplicationPartsAssemblyInfo.cs
+C:\ApiServicio\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.MvcApplicationPartsAssemblyInfo.cache
+C:\ApiServicio\apiServicio\apiServicio\obj\Debug\net5.0\staticwebassets\apiServicio.StaticWebAssets.Manifest.cache
+C:\ApiServicio\apiServicio\apiServicio\obj\Debug\net5.0\staticwebassets\apiServicio.StaticWebAssets.xml
+C:\ApiServicio\apiServicio\apiServicio\obj\Debug\net5.0\scopedcss\bundle\apiServicio.styles.css
+C:\ApiServicio\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.RazorTargetAssemblyInfo.cache
+C:\ApiServicio\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.csproj.CopyComplete
+C:\ApiServicio\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.dll
+C:\ApiServicio\apiServicio\apiServicio\obj\Debug\net5.0\ref\apiServicio.dll
+C:\ApiServicio\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.pdb
+C:\ApiServicio\apiServicio\apiServicio\obj\Debug\net5.0\apiServicio.genruntimeconfig.cache
